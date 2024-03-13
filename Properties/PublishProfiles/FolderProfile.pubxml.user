@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\MY_FOLDER\Work\4_CODE\C#\CompleteCourse\Test_MVC\MVC_AS_SERVICE</_PublishTargetUrl>
+    <History>True|2024-03-07T07:33:42.6353537Z;True|2024-03-06T11:28:41.7059620+03:00;True|2024-03-01T10:59:41.5480991+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Views/Home/Somthing.cshtml">
+      <publishTime>03/07/2024 11:40:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
